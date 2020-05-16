@@ -1,4 +1,4 @@
-package com.codeup.springblogapp.controllers;
+package java.com.codeup.springblogapp.controllers;
 
 import com.codeup.springblogapp.model.Ad;
 import com.codeup.springblogapp.model.User;

@@ -1,4 +1,4 @@
-package com.codeup.springblogapp;
+package java.com.codeup.springblogapp;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.ResourceHandlerRegistry;

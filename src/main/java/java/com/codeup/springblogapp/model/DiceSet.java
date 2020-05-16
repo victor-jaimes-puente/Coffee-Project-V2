@@ -1,4 +1,4 @@
-package com.codeup.springblogapp.model;
+package java.com.codeup.springblogapp.model;
 
 /**
  * Making this a simple structure not a classic bean class.

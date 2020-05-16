@@ -1,4 +1,4 @@
-package com.codeup.springblogapp.controllers;
+package java.com.codeup.springblogapp.controllers;
 
 import com.codeup.springblogapp.model.Book;
 import com.codeup.springblogapp.repositories.BookRepository;

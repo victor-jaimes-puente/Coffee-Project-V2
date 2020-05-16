@@ -1,4 +1,4 @@
-package com.codeup.springblogapp;
+package java.com.codeup.springblogapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

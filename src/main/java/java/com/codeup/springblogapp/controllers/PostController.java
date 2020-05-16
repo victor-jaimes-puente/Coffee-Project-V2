@@ -1,4 +1,4 @@
-package com.codeup.springblogapp.controllers;
+package java.com.codeup.springblogapp.controllers;
 
 import com.codeup.springblogapp.model.Post;
 import com.codeup.springblogapp.model.User;
@@ -6,10 +6,10 @@ import com.codeup.springblogapp.repositories.PostRepository;
 import com.codeup.springblogapp.repositories.UserRepository;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
-import org.springframework.web.bind.annotation.*;
-
-import java.util.ArrayList;
-import java.util.List;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestParam;
 
 @Controller
 public class PostController {
